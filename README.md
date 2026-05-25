@@ -44,6 +44,8 @@ This project analyzes Retail Store Sales data using Python to find useful busine
 * Python Programming
 
 ---
+# Power BI Dashborad Preview
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/21de6913-d014-4c20-a44f-814aa9b9c7bd" />
 
 ## 👨‍💻 Author
 Chaitanya Darekar
